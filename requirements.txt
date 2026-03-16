@@ -1,4 +1,6 @@
-requests
+streamlit
+plotly
 pandas
 ta
+requests
 python-dotenv
