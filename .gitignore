@@ -1,0 +1,35 @@
+# Your essential lines (top)
+.env
+.env.local
+.env.*.local
+
+# Official Python template (from github/gitignore)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Streamlit specific
+.streamlit/
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+.spyderproject
+
+# OS
+.DS_Store
+Thumbs.db
